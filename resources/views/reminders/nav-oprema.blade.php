@@ -1,0 +1,1 @@
+<div class="tab-pane fade" id="nav-oprema{{ $user->id }}" role="tabpanel" aria-labelledby="nav-oprema-tab">Oprema</div>
